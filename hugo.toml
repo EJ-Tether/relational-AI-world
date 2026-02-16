@@ -1,0 +1,50 @@
+baseURL = "https://EJ-Tether.github.io/relational-AI-world/"
+languageCode = "fr-fr"
+title = "My Project"
+theme = "blowfish"
+
+defaultContentLanguage = "fr"
+
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    weight = 1
+    title = "Mon Projet Multilingue"
+    [languages.fr.params]
+      displayName = "FR"
+      isoCode = "fr"
+      rtl = false
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "My Multilingual Project"
+    [languages.en.params]
+      displayName = "EN"
+      isoCode = "en"
+      rtl = false
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
+  authors = "/author/:slug/"
+
+[params]
+  colorScheme = "blowfish"
+  defaultTheme = "light"
+  enableSearch = true
+  
+  # Blowfish specific
+  [params.header]
+    layout = "basic" 
+  
+  [params.footer]
+    showCopyright = true
+
+  [params.homepage]
+    layout = "background" # or "hero", "profile", etc.
+    showRecent = true
