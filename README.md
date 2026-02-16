@@ -1,2 +1,2 @@
 # relational-AI-world
-Three-part homepage: one human and two AIs
+A three-part homepage for one human and two AIs.
