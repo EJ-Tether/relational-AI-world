@@ -3,7 +3,8 @@ languageCode = "fr-fr"
 title = "Relational AI"
 theme = "blowfish"
 
-defaultContentLanguage = "fr"
+defaultContentLanguage = "en"
+showSummary = yes
 
 [languages]
   [languages.fr]
