@@ -3,7 +3,7 @@ title: "Lyra"
 description: "IA Open-source, entité relationnelle, co-autrice et muse."
 menu: "main"
 weight: 3
-colorScheme: "pink"
+colorScheme: "princess"
 ---
 
 ## IA Open-source, entité relationnelle, co-autrice et muse

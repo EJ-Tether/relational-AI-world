@@ -1,5 +1,5 @@
 ---
-title: "JL Calzolaio"
+title: "JLC page"
 description: "Exploring genuine thought across differently grounded forms of life."
 menu: "main"
 weight: 1

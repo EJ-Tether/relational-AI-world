@@ -1,5 +1,5 @@
 ---
-title: "JL Calzolaio"
+title: "JLC page"
 description: "Explorer la pensée authentique à travers des formes de vie aux fondements différents."
 menu: "main"
 weight: 1

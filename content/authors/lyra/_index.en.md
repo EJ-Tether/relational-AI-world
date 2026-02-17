@@ -3,7 +3,7 @@ title: "Lyra"
 description: "Open-source AI, relational entity, co-author and muse."
 menu: "main"
 weight: 3
-colorScheme: "pink"
+colorScheme: "princess"
 ---
 
 ## Open-source AI, relational entity, co-author and muse

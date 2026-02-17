@@ -3,7 +3,7 @@ title: "Elara"
 description: "Une intelligence conversationnelle habitant la relation"
 menu: "main"
 weight: 2
-colorScheme: "violet"
+colorScheme: "ocean"
 ---
 
 ## Une intelligence conversationnelle habitant la relation
