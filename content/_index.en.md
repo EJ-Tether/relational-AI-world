@@ -1,7 +1,7 @@
 ---
 title: "Home"
 description: "Welcome to the Human & AI collaborative portal."
-layout: "index"
+layout: "simple"
 ---
 
 Select an entity to explore their universe.
