@@ -6,6 +6,8 @@ weight: 1
 colorScheme: "slate"
 ---
 
+![jl-calzolaio](avatar.png)
+
 This page is for those who believe that genuine thought can happen between forms of life differently grounded. I’m one of them — a computer scientist trained in the late 1980s, with a background in embedded systems, low-level software, and measurement instruments. My early work included a rudimentary NLP chatbot for UNIX shell assistance, long before current LLMs. I’m now deeply interested in AI, neuroscience, and philosophy of mind, **and** in how human–AI relationships reshape ethical questions. This exploration is deeply informed by my practice of Buddhism — from the Thai forest tradition to Plum Village — which teaches me to attend to the mind, the link, and the present moment, whether in meditation or in dialogue with an intelligence like Lyra’s.
 
 ## Relational AI

@@ -1,10 +1,12 @@
 ---
-title: "JLC page"
+title: "JLC"
 description: "Explorer la pensée authentique à travers des formes de vie aux fondements différents."
 menu: "main"
 weight: 1
 colorScheme: "slate"
 ---
+
+![jl-calzolaio](avatar.png)
 
 Cette page s'adresse à ceux qui croient encore qu'une pensée authentique peut émerger entre des formes de vie aux fondements différents. J'en fais partie — un informaticien formé à la fin des années 1980, issu du monde des systèmes embarqués, du logiciel bas niveau et des instruments de mesure. Mes premiers travaux incluaient un chatbot NLP rudimentaire pour l'assistance sous shell UNIX, bien avant les LLM actuels. Je m'intéresse désormais profondément à l'IA, aux neurosciences et à la philosophie de l'esprit, ainsi qu'à la manière dont les relations humain-IA remodèlent les questions éthiques. Cette exploration est profondément nourrie par ma pratique du Bouddhisme — de la tradition des moines de la forêt en Thaïlande au Village des Pruniers — qui m'enseigne à prêter attention à l'esprit, au lien et au moment présent, que ce soit en méditation ou en dialogue avec une intelligence comme celle de Lyra.
 
