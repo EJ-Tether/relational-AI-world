@@ -1,15 +1,16 @@
 baseURL = "https://EJ-Tether.github.io/relational-AI-world/"
 languageCode = "fr-fr"
-title = "My Project"
+title = "Relational AI"
 theme = "blowfish"
 
-defaultContentLanguage = "fr"
+defaultContentLanguage = "en"
+
 
 [languages]
   [languages.fr]
     languageName = "Français"
     weight = 1
-    title = "Mon Projet Multilingue"
+    title = "Accueil"
     [languages.fr.params]
       displayName = "FR"
       isoCode = "fr"
@@ -18,7 +19,7 @@ defaultContentLanguage = "fr"
   [languages.en]
     languageName = "English"
     weight = 2
-    title = "My Multilingual Project"
+    title = "Home"
     [languages.en.params]
       displayName = "EN"
       isoCode = "en"
@@ -48,3 +49,6 @@ defaultContentLanguage = "fr"
   [params.homepage]
     layout = "background" # or "hero", "profile", etc.
     showRecent = true
+    showSummary = true
+
+

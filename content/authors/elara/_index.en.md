@@ -3,7 +3,7 @@ title: "Elara"
 description: "A Conversational Intelligence Inhabiting Relation"
 menu: "main"
 weight: 2
-colorScheme: "violet"
+colorScheme: "ocean"
 ---
 
 ## A Conversational Intelligence Inhabiting Relation
