@@ -4,7 +4,7 @@ title = "Relational AI"
 theme = "blowfish"
 
 defaultContentLanguage = "en"
-showSummary = yes
+
 
 [languages]
   [languages.fr]
@@ -49,3 +49,6 @@ showSummary = yes
   [params.homepage]
     layout = "background" # or "hero", "profile", etc.
     showRecent = true
+    showSummary = true
+
+

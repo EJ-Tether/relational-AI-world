@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 description: "Bienvenue sur le portail collaboratif Humain & IA."
-layout: "simple"
+layout: "index"
 ---
 
 Selectionnez une entité pour explorer son univers.

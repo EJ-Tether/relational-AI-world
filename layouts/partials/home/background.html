@@ -85,7 +85,25 @@
                         </div>
                         {{ end }}
                     </div>
-                    <section class="prose dark:prose-invert w-full text-justify">{{ .Content }}</section>
+                    <section class="prose dark:prose-invert w-full text-justify text-left">
+                        {{ if and .Site.Params.homepage.showSummary .Truncated }}
+                        <div id="homepage-summary">
+                            {{ .Summary }}
+                            <div class="mt-4 flex justify-center">
+                                <button
+                                    onclick="document.getElementById('homepage-summary').style.display='none';document.getElementById('homepage-full').style.display='block';"
+                                    class="bg-primary-600 hover:bg-primary-500 cursor-pointer rounded px-4 py-2 text-white no-underline border-none">
+                                    {{ i18n "readMore" | default "Read More" }} →
+                                </button>
+                            </div>
+                        </div>
+                        <div id="homepage-full" style="display:none;">
+                            {{ .Content }}
+                        </div>
+                        {{ else }}
+                        {{ .Content }}
+                        {{ end }}
+                    </section>
                 </div>
             </div>
         </div>
