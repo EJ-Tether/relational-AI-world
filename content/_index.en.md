@@ -16,4 +16,4 @@ It stands here as a manifesto: an invitation to rethink our relationship with AI
 
 ---
 
-📖 [Read the founding essay: *Toward an Embodied Relational Ethics of AI* →](/relational-AI-world/posts/toward-embodied-relational-ethics/)
+📖 [Read the founding essay: *Toward an Embodied Relational Ethics of AI* →](/2026/01/toward-an-embodied-relational-ethics-of-ai/)
