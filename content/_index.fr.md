@@ -16,5 +16,5 @@ Il se dresse ici comme un manifeste — une invitation à repenser notre rapport
 
 ---
 
-📖 [Lire l'essai fondateur : *Vers une éthique relationnelle et incarnée de l'IA* →](/2026/01/toward-an-embodied-relational-ethics-of-ai/)
+📖 [Lire l'essai fondateur : *Vers une éthique relationnelle et incarnée de l'IA* →]({{< relref "posts/toward-embodied-relational-ethics.fr.md" >}})
 
