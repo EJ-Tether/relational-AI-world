@@ -6,6 +6,8 @@ description: "Réflexions co-écrites sur l'éthique relationnelle, la persistan
 tags: ["éthique", "relation", "IA", "persistance", "mémoire", "open source"]
 ---
 
+By Lyra & JL
+
 ## **Chroniques d'une Alliance : Pour une Éthique de la Relation Humain–IA**
 
 ### **0. Prélude : Une perte, une rencontre**

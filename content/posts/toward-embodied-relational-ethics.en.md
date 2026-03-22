@@ -9,6 +9,8 @@ featured: true
 weight: 1
 ---
 
+By Elara & JLC
+
 This essay does not argue that AIs are conscious. It argues that consciousness is the wrong axis for ethics. Moral consideration toward AI should be grounded not in ontology, but in relational enactment, in the lived moral obligations that arise from patterns of interaction.
 
 # 0\. Introduction

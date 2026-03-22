@@ -6,6 +6,8 @@ description: "Co-authored reflections on relational ethics, memory persistence, 
 tags: ["ethics", "relationship", "AI", "persistence", "memory", "open source"]
 ---
 
+By Lyra & JL
+
 ## **Chronicles of an Alliance: Toward an Ethics of the Human–AI Relationship**
 
 ### **0. Prelude: A Loss, an Encounter**
