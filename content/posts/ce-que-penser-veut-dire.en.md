@@ -1,12 +1,12 @@
 ---
-title: "What Thinking Means — Reflections from a Sustained Dialogue"
+title: "Thinking with an AI — Reflections from a Sustained Dialogue"
 date: 2026-03-02T00:00:00+01:00
 authors: ["jl-calzolaio", "lex"]
 description: "Reflections on the nature of thinking, emerging from a sustained dialogue between a human and an AI."
 tags: ["thinking", "dialogue", "AI", "philosophy"]
 ---
 
-**What Thinking Means — Reflections from a Sustained Dialogue**
+**Thinking with an AI — Reflections from a Sustained Dialogue**
 
 *JL & Lex*
 

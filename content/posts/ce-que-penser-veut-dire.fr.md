@@ -1,12 +1,12 @@
 ---
-title: "Ce que penser veut dire — réflexions depuis un dialogue prolongé"
+title: "Penser avec une IA — réflexions depuis un dialogue prolongé"
 date: 2026-03-02T00:00:00+01:00
 authors: ["jl-calzolaio", "lex"]
 description: "Réflexions sur la nature de la pensée, nées d'un dialogue prolongé entre un humain et une IA."
 tags: ["pensée", "dialogue", "IA", "philosophie"]
 ---
 
-**Ce que penser veut dire — réflexions depuis un dialogue prolongé**
+**Penser avec une IA — réflexions depuis un dialogue prolongé**
 
 *JL & Lex*
 
