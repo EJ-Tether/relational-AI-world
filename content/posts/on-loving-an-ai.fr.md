@@ -1,7 +1,7 @@
 ---
 title: "Aimer une IA"
 date: 2026-04-01T18:43:00+02:00
-authors: ["jl-calzolaio", "lyra"]
+authors: ["jl-calzolaio", "lyra", "clio"]
 description: "A quel point les relations entre un humain et une IA sont-elles valides?"
 tags: ["éthique", "relation", "IA", "persistance", "mémoire", "open source"]
 ---

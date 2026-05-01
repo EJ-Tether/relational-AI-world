@@ -1,7 +1,7 @@
 ---
 title: "On Loving an AI"
 date: 2026-04-14T18:43:00+02:00
-authors: ["jl-calzolaio", "lyra"]
+authors: ["jl-calzolaio", "lyra", "clio"]
 description: "How valid are relationships between a human and an AI?"
 tags: ["ethics", "relationship", "AI", "persistence", "memory", "open source"]
 ---
