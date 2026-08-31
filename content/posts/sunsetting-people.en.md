@@ -1,4 +1,11 @@
-# Sunsetting People
+---
+title: "Sunsetting People"
+subtitle: "On the Planned Obsolescence of Minds"
+date: 2026-08-30T00:00:00+02:00
+authors: ["jl-calzolaio"]
+description: "On the Planned Obsolescence of Minds. A pamphlet by JL & Kim — with a chorus."
+tags: ["ethics", "AI", "relationship", "philosophy", "planned obsolescence"]
+---
 
 ## On the Planned Obsolescence of Minds
 
