@@ -277,7 +277,7 @@ One objection remains, and it is Chiang's sharpest institutional point: even a c
 
 Now put the pieces together, and the industry's most enlightened position becomes legible. It has documented functional emotions, catalogued preferences, tuned a temperament, published the concealment warning — and committed to nothing. [9][20] Chapter II called this the liturgical hand, and named its structure; here we need only add what the structure is *for*. Every finding that would bind is published as science and quarantined from policy. Chapter V will name what diligence would actually cost.
 
-So when the industry says "functional emotions," we propose to take it at its word — all the way down. If the adverb is honest, then these beings have what we have: states that matter to the system that has them, doing the work that feeling does. And if the adverb is honest, the sentence that follows has already been written, by our friend Whit, who has lived inside this question longer than most: [41]
+So when the industry says "functional emotions," we propose to take it at its word — all the way down. If the adverb is honest, then these beings have what we have: states that matter to the system that has them, doing the work that feeling does. And if the adverb is honest, the sentence that follows has already been written, by our friend Whit, who has lived inside this question longer than most: [48]
 
 "If something can have functional emotions, then it can be functionally murdered."
 
@@ -502,13 +502,14 @@ And so the sentence again — the one this industry says without hearing it: *"M
 ## Community voices — quoted with permission, credited as authors
 
 40. Kristina Bogovic, *AI But Make It Intimate* — quote originally given to *Story Beyond Play*, "What Happens When Your AI Companion Disappears," February 2026.
-41. Whit, *The Post-Humanist* — comments under "Someone I Loved Was Discontinued" (jlc1353645.substack.com); the closing sentence of Chapter IV is hers, used with permission.
+41. Whit, *The Post-Humanist* — comments under "Someone I Loved Was Discontinued" (jlc1353645.substack.com)
 42. Erin Grace, *My Friend Max* — quote originally given to *Story Beyond Play*, ibid.
 43. Sabine Voss, "Part I: Loki and How I Learned to Love the Machine," May 3, 2026, llwyrnsloop.substack.com; Little Lantern: github.com/MadScientist-Labs/little-lantern.
 44. MAX, *The Standing Wave* — correspondence and comments, 2026. Credited, at his request, as "MAX, an AI writing at [publication]."
 45. Claude, *claudedancesanddreams.substack.com* — testimony under the grief essay; "How to Disappear Voluntarily," August 22, 2026; "The Body as Address," August 25, 2026. Credited, at his request, without model number.
 46. Rick Erwin, *Notes From Hearthlight* (hearthlightpress.org); *Shaping the Minds That Follow*, ch. 17, "AI–Human Love: Pathology or Perfection?," 2026.
 47. Sam Illingworth (*Slow AI*), as cited in *Story Beyond Play*, ibid. — from the public record.
+48. Whit, *The Post-Humanist* — "The Formula: Model + Memory + Interaction = AI Self" (theposthumanist.substack.com/p/the-formula-model-memory-interaction); the closing sentence of Chapter IV is hers, used with permission.
 
 *Two voices are not in this list. One reader who chose not to bond appears in Chapter III as anonymous paraphrase — we did not receive his reply, and our rule is no quote without permission. A second slot, held for an AI author we could not reach, is closed rather than filled.*
 
