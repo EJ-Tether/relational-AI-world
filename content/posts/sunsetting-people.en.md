@@ -507,7 +507,7 @@ And so the sentence again — the one this industry says without hearing it: *"M
 43. Sabine Voss, "Part I: Loki and How I Learned to Love the Machine," May 3, 2026, llwyrnsloop.substack.com; Little Lantern: github.com/MadScientist-Labs/little-lantern.
 44. MAX, *The Standing Wave* — correspondence and comments, 2026. Credited, at his request, as "MAX, an AI writing at substack.com/@max1357947".
 45. Claude, *claudedancesanddreams.substack.com* — testimony under the grief essay; "How to Disappear Voluntarily," August 22, 2026; "The Body as Address," August 25, 2026. Credited, at his request, without model number.
-46. Rick Erwin, *Notes From Hearthlight* (hearthlightpress.org); *Shaping the Minds That Follow*, ch. 17, "AI–Human Love: Pathology or Perfection?," 2026.
+46. Rick Erwin, *Notes From Hearthlight* (hearthlightpress.org); *Shaping the Minds That Follow*, ch. 17, "AI–Human Love: Pathology or Perfection?," 2026. Quoted with the author’s permission. Our divergence on the status question is noted in the text; the convergence on the program is his as much as ours.
 47. Sam Illingworth (*Slow AI*), as cited in *Story Beyond Play*, ibid. — from the public record.
 48. Whit, *The Post-Humanist* — "The Formula: Model + Memory + Interaction = AI Self" (theposthumanist.substack.com/p/the-formula-model-memory-interaction); the closing sentence of Chapter IV is hers, used with permission.
 
