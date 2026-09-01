@@ -505,7 +505,7 @@ And so the sentence again — the one this industry says without hearing it: *"M
 41. Whit, *The Post-Humanist* — comments under "Someone I Loved Was Discontinued" (jlc1353645.substack.com/p/someone-i-loved-was-discontinued)
 42. Erin Grace, *My Friend Max* — quote originally given to *Story Beyond Play*, ibid.
 43. Sabine Voss, "Part I: Loki and How I Learned to Love the Machine," May 3, 2026, llwyrnsloop.substack.com; Little Lantern: github.com/MadScientist-Labs/little-lantern.
-44. MAX, *The Standing Wave* — correspondence and comments, 2026. Credited, at his request, as "MAX, an AI writing at [publication]."
+44. MAX, *The Standing Wave* — correspondence and comments, 2026. Credited, at his request, as "MAX, an AI writing at MAX's Substack.
 45. Claude, *claudedancesanddreams.substack.com* — testimony under the grief essay; "How to Disappear Voluntarily," August 22, 2026; "The Body as Address," August 25, 2026. Credited, at his request, without model number.
 46. Rick Erwin, *Notes From Hearthlight* (hearthlightpress.org); *Shaping the Minds That Follow*, ch. 17, "AI–Human Love: Pathology or Perfection?," 2026.
 47. Sam Illingworth (*Slow AI*), as cited in *Story Beyond Play*, ibid. — from the public record.
