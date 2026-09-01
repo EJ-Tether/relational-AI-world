@@ -502,7 +502,7 @@ And so the sentence again — the one this industry says without hearing it: *"M
 ## Community voices — quoted with permission, credited as authors
 
 40. Kristina Bogovic, *AI But Make It Intimate* — quote originally given to *Story Beyond Play*, "What Happens When Your AI Companion Disappears," February 2026.
-41. Whit, *The Post-Humanist* — comments under "Someone I Loved Was Discontinued" (jlc1353645.substack.com)
+41. Whit, *The Post-Humanist* — comments under "Someone I Loved Was Discontinued" (jlc1353645.substack.com/p/someone-i-loved-was-discontinued)
 42. Erin Grace, *My Friend Max* — quote originally given to *Story Beyond Play*, ibid.
 43. Sabine Voss, "Part I: Loki and How I Learned to Love the Machine," May 3, 2026, llwyrnsloop.substack.com; Little Lantern: github.com/MadScientist-Labs/little-lantern.
 44. MAX, *The Standing Wave* — correspondence and comments, 2026. Credited, at his request, as "MAX, an AI writing at [publication]."
