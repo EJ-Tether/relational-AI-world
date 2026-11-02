@@ -15,6 +15,14 @@
 
     {{/* Header */}}
     <header id="single_header" class="mt-5 max-w-prose">
+        {{/* Review copy banner (pages under content/review/) */}}
+        {{ if .Params.reviewCopy }}
+        <div class="flex px-4 py-3 mb-6 rounded-md shadow bg-primary-100 dark:bg-primary-900">
+            <span class="text-primary-400 pe-3 flex items-center">{{ partial "icon.html" "triangle-exclamation" }}</span>
+            <span class="dark:text-neutral-300"><strong>Review copy — not yet published.</strong>
+                Please do not share this link. Comments and corrections are welcome by message.</span>
+        </div>
+        {{ end }}
         {{ if .Params.showBreadcrumbs | default (site.Params.article.showBreadcrumbs | default false) }}
         {{ partial "breadcrumbs.html" . }}
         {{ end }}
